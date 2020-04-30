@@ -1,4 +1,4 @@
-# Long_REmodels
+# Modelling longitudinal data
 
 #### This repository contains my research attachment presentations on modelling of longitudinal data and STATA DO files.
 
