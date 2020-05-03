@@ -8,4 +8,4 @@ A binary logistic regression, random effects model was used to determine which o
 
 ##### Research attachment 2: Exploring Gender Differences in the Relationship Between Obesity and Employment Outcomes
 
-An ordered probit regression was used to explore the distribution of employment outcomes by gender and BMI.
+An ordered probit regression was used to explore the distribution of employment outcomes by gender and BMI in Understanding Society.
